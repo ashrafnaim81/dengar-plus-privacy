@@ -1,6 +1,6 @@
 # Privacy Policy for Dengar+
 
-**Last Updated:** January 19, 2025
+**Last Updated:** January 20, 2025
 
 **Developer:** Ashraf Naim
 **Contact:** ashrafnaim81@gmail.com
@@ -31,13 +31,13 @@ Welcome to Dengar+. We respect your privacy and are committed to protecting your
 
 ### 2.3 Usage Tracking
 - **What:** Number of transcriptions used (quota management)
-- **Purpose:** To enforce free tier limits and track Premium subscription usage
-- **Data Collected:** Device ID, transcription count, quota remaining, last reset date
+- **Purpose:** To enforce free tier limits and track Premium subscription monthly usage
+- **Data Collected:** Device ID, transcription count, quota remaining, monthly reset date
 - **Storage:** Persistent backend database (SQLite)
 
 ### 2.4 Purchase Information
 - **What:** In-App Purchase transaction IDs and subscription status
-- **Purpose:** To verify Premium subscription ($4.99/month) and provide unlimited transcription access
+- **Purpose:** To verify Premium subscription ($4.99/month) and provide 30 monthly transcriptions
 - **Processing:** Handled by Apple App Store; we only receive validation confirmation
 - **Privacy:** Apple processes all payment information (we never see credit card details)
 
@@ -50,7 +50,7 @@ Welcome to Dengar+. We respect your privacy and are committed to protecting your
 - **Summarization:** Transcripts sent to OpenAI GPT-4o-mini API for intelligent meeting summaries
 - **Quota Management:**
   - **Free Tier:** 5 transcriptions total per device (lifetime)
-  - **Premium Tier:** Unlimited transcriptions with $4.99/month subscription
+  - **Premium Tier:** 30 transcriptions per month with $4.99/month subscription (resets monthly)
 
 ### 3.2 No Permanent Storage
 - **Audio files:** Deleted immediately after transcription
@@ -93,8 +93,9 @@ Welcome to Dengar+. We respect your privacy and are committed to protecting your
 
 ### 5.2 On Our Backend Servers (AWS Lightsail)
 - **Device ID:** Stored to track quota usage
-- **Transcription count:** Current usage for free tier users
+- **Transcription count:** Current usage for both free and premium users
 - **Subscription data:** Expiry date, product ID, transaction ID
+- **Monthly reset tracking:** Premium quota reset dates
 - **Retention:** 90 days after last use (automatically purged)
 
 ### 5.3 What We DO NOT Store
@@ -138,12 +139,15 @@ You have the right to:
 - **Quota:** 5 transcriptions per device (lifetime)
 - **No Credit Card:** Free tier requires no payment information
 - **Usage Tracking:** Device ID used to track quota
+- **No Reset:** Free quota never resets (one-time allowance)
 
 ### 8.2 Premium Subscription ($4.99/month)
-- **Unlimited Transcriptions:** No monthly quota limits
+- **Monthly Quota:** 30 transcriptions per month
+- **Quota Reset:** Automatically resets on your billing date each month
 - **Auto-Renewal:** Subscription renews monthly unless canceled
 - **Cancellation:** Cancel anytime via iOS Settings → Subscriptions
 - **Refunds:** Handled by Apple according to their refund policy
+- **Quota Tracking:** Monthly usage tracked via device ID
 
 ---
 
@@ -204,6 +208,7 @@ Email ashrafnaim81@gmail.com with:
 1. iOS Settings → [Your Name] → Subscriptions
 2. Select "Dengar+"
 3. Tap "Cancel Subscription"
+4. **Note:** Remaining quota for current billing cycle stays active until expiration
 
 ---
 
@@ -223,8 +228,9 @@ This privacy policy complies with:
 
 ### What Data We Have Access To:
 - ✅ Anonymous device IDs
-- ✅ Transcription usage counts
+- ✅ Transcription usage counts (free and premium)
 - ✅ Subscription validation status
+- ✅ Monthly quota reset dates
 
 ### What Data We DO NOT Have Access To:
 - ❌ Your name
@@ -234,11 +240,30 @@ This privacy policy complies with:
 - ❌ Your payment information
 - ❌ Your location
 
+### Data Retention & Quota Tracking:
+- **Free Tier:** 5 lifetime transcriptions (never resets)
+- **Premium Tier:** 30 monthly transcriptions (resets each billing cycle)
+- **Tracking:** Device ID used to monitor monthly usage and enforce limits
+- **Auto-Reset:** Premium quota resets automatically on subscription renewal date
+
 ---
 
-**Effective Date:** January 19, 2025
-**Version:** 2.1 (Updated for Final Release)
-**Previous Version:** 2.0 (November 13, 2025)
+## 15. Subscription Terms
+
+### Premium Subscription Details:
+- **Price:** $4.99 USD per month
+- **Monthly Limit:** 30 transcriptions per billing cycle
+- **Reset Schedule:** Quota resets on your subscription renewal date
+- **Overage:** When monthly limit is reached, wait for next billing cycle
+- **No Rollover:** Unused transcriptions do not carry over to next month
+- **Billing:** Charged through Apple App Store subscription
+- **Cancellation:** Effective at end of current billing period
+
+---
+
+**Effective Date:** January 20, 2025
+**Version:** 2.2 (Updated for Premium Monthly Quota)
+**Previous Version:** 2.1 (January 19, 2025)
 
 ---
 
