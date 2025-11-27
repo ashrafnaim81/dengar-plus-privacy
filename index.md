@@ -261,9 +261,16 @@ This privacy policy complies with:
 
 ---
 
-**Effective Date:** January 20, 2025
-**Version:** 2.2 (Updated for Premium Monthly Quota)
-**Previous Version:** 2.1 (January 19, 2025)
+**Effective Date:** November 27, 2025
+**Version:** 2.3 (Updated for App Store Submission)
+**Previous Version:** 2.2 (January 20, 2025)
+
+---
+
+## Related Documents
+
+- [Terms of Use](terms.md)
+- [Support](support.md)
 
 ---
 
