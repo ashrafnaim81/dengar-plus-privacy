@@ -3,7 +3,7 @@
 **Last Updated:** September 21, 2026
 
 **Developer:** Ashraf Naim
-**Contact:** ashrafnaim81@gmail.com
+**Contact:** support@tsapps.my
 **App:** Dengar+ (AI Meeting Transcription & Summary)
 
 ---
@@ -177,7 +177,7 @@ We may update this privacy policy from time to time to reflect changes in:
 
 If you have questions, concerns, or requests regarding this privacy policy or your data:
 
-**Email:** ashrafnaim81@gmail.com
+**Email:** support@tsapps.my
 **Subject Line:** "Dengar+ Privacy Inquiry"
 **Response Time:** Within 7 business days
 
@@ -199,7 +199,7 @@ If you have questions, concerns, or requests regarding this privacy policy or yo
    iOS Settings → General → iPhone Storage → Dengar+ → Delete App
 
 ### To Delete Backend Data:
-Email ashrafnaim81@gmail.com with:
+Email support@tsapps.my with:
 - Subject: "Backend Data Deletion Request"
 - Device ID (Settings → About in app)
 - We'll confirm deletion within 7 business days

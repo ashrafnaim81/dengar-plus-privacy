@@ -6,7 +6,7 @@ Welcome to Dengar+ Support. We're here to help you get the most out of your AI-p
 
 ## Contact Us
 
-**Email:** [ashrafnaim81@gmail.com](mailto:ashrafnaim81@gmail.com)
+**Email:** [support@tsapps.my](mailto:support@tsapps.my)
 **Response Time:** Within 24-48 hours
 
 ---
@@ -126,7 +126,7 @@ Yes. Your recordings are stored **locally on your device**. Audio is only sent f
 - Or delete the app to remove all local data
 
 **Backend data:**
-- Email us at ashrafnaim81@gmail.com with subject "Data Deletion Request"
+- Email us at support@tsapps.my with subject "Data Deletion Request"
 - Include your device ID (found in Settings → About)
 
 ---

@@ -3,7 +3,7 @@
 **Last Updated:** September 21, 2026
 
 **Developer:** Ashraf Naim
-**Contact:** ashrafnaim81@gmail.com
+**Contact:** support@tsapps.my
 **App:** Dengar+ (AI Meeting Transcription & Summary)
 
 ---
@@ -179,7 +179,7 @@ If any provision of these Terms is found to be unenforceable or invalid, that pr
 
 For questions about these Terms of Use:
 
-**Email:** ashrafnaim81@gmail.com
+**Email:** support@tsapps.my
 **Subject Line:** "Dengar+ Terms Inquiry"
 **Response Time:** Within 7 business days
 
