@@ -1,6 +1,6 @@
 # Terms of Use for Dengar+
 
-**Last Updated:** November 27, 2025
+**Last Updated:** September 21, 2026
 
 **Developer:** Ashraf Naim
 **Contact:** ashrafnaim81@gmail.com
@@ -19,7 +19,7 @@ By downloading, installing, or using Dengar+, you agree to be bound by these Ter
 Dengar+ is a meeting recording and transcription application that provides:
 
 - **Audio Recording:** Record meetings and conversations on your iOS device
-- **AI Transcription:** Convert audio to text using OpenAI Whisper technology
+- **AI Transcription:** Convert audio to text using AI speech models (Google Gemini via OpenRouter)
 - **Meeting Summaries:** Generate intelligent summaries with key action items
 - **Export Options:** Share transcripts via PDF, DOCX, or other formats
 
@@ -89,9 +89,9 @@ By using Dengar+, you agree to:
 
 Dengar+ uses the following third-party services:
 
-- **OpenAI:** For AI transcription and summarization ([OpenAI Terms](https://openai.com/terms))
+- **OpenRouter and Google:** For AI transcription and summarization ([OpenRouter Terms](https://openrouter.ai/terms), [Google Terms](https://policies.google.com/terms))
 - **Apple StoreKit:** For in-app purchases and subscriptions ([Apple Terms](https://www.apple.com/legal/internet-services/itunes/))
-- **AWS:** For backend infrastructure
+- **Hostinger:** For backend infrastructure
 
 By using Dengar+, you also agree to the terms of these third-party services.
 

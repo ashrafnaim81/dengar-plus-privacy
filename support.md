@@ -91,7 +91,7 @@ Dengar+ records in M4A format. You can also import audio files in MP3, M4A, WAV,
 Yes! Dengar+ supports multiple languages including:
 - English
 - Bahasa Melayu
-- And many others supported by OpenAI Whisper
+- Other languages may work but are not officially supported
 
 ---
 
